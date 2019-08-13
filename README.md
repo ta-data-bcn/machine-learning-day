@@ -34,9 +34,10 @@ After that, you will be driven thorough a [sentiment analysis](https://towardsda
 ## The presentation
 * You have 10 minutes to present and 10 minutes for questions/debate
 * As a schema for your presentation you will cover:
- ** A simple explanation of your topic
- ** A use case (your tutorial)
- ** Some examples of applications
- ** Some companies that use it and how
- ** Limitations 
- ** Resources, articles you read
+  * A simple explanation of your topic 
+  * A use case (your tutorial)
+  * Some examples of applications
+  * Some companies that use it and how
+  * Limitations 
+  * Technologies, libraries used
+  * Resources, articles you read
