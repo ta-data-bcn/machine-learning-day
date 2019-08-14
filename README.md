@@ -7,6 +7,7 @@ In the same way as in the Analysis Day, today you will face a case with your tea
 The idea is to know a little bit better three fields that Machine Learning covers:
 * Neural networks - a specific family of algorithms that we are sure you have heard about them.
 * Natural language processing - the algorithms that try to understand our language.
+* Reinforcement learning - a way to do machine learning by building data while an "agent" is interacting with the environment.
 * Graphs algorithms - a mathematical concept useful to understand social networks.
 
 Your team will be assigned to one of the topics and you will go through a lesson and a basic project. After that, you will present both to your partners so they understand a little bit the theory and how did you put it into practice.
@@ -54,6 +55,13 @@ print_frames(frames)
 
 To fix it, just remove the `get_values` function
 
+### Graph algorithms
+You will be introduced to this amazing field through the [Amy Hodler and Jennifer Reif talk](https://www.youtube.com/watch?time_continue=448&v=ho6Y6nMpNk0) in the GraphTour San Francisco (2018). After that, you can go through the [Mark Needham
+'s tutorial](https://medium.com/neo4j/introducing-neuler-the-graph-algorithms-playground-d81042cfcd56)
+To know better what a graph is, you can go through the [Jon Calhoun's explanation](https://www.youtube.com/watch?v=QRmbCrr_Ois).
+
+[Here](https://data.world/data-society/game-of-thrones) you have the data from Game of Thrones
+
 ## The presentation
 * You have 10 minutes to present and 10 minutes for questions/debate
 * As a schema for your presentation you will cover:
@@ -70,3 +78,5 @@ To fix it, just remove the `get_values` function
 [(RL) Solving the gridworld task](https://towardsdatascience.com/reinforcement-learning-rl-101-with-python-e1aa0d37d43b)
 
 [(RL) Various algorithms](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
+
+[(GA) How to get started with machine learning on graphs](https://medium.com/octavian-ai/how-to-get-started-with-machine-learning-on-graphs-7f0795c83763)
