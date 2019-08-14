@@ -68,4 +68,5 @@ To fix it, just remove the `get_values` function
 ## Further readings
 
 [(RL) Solving the gridworld task](https://towardsdatascience.com/reinforcement-learning-rl-101-with-python-e1aa0d37d43b)
+
 [(RL) Various algorithms](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
