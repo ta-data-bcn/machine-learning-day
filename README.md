@@ -60,7 +60,7 @@ You will be introduced to this amazing field through the [Amy Hodler and Jennife
 's tutorial](https://medium.com/neo4j/introducing-neuler-the-graph-algorithms-playground-d81042cfcd56)
 To know better what a graph is, you can go through the [Jon Calhoun's explanation](https://www.youtube.com/watch?v=QRmbCrr_Ois).
 
-[Here](https://data.world/data-society/game-of-thrones) you have the data from Game of Thrones
+[Here](https://data.world/data-society/game-of-thrones) you have the data from Game of Thrones and [here](https://github.com/ta-data-bcn/machine-learning-day/blob/master/Graph_Algorithms_Neo4j.pdf) you have a book with further ex
 
 ## The presentation
 * You have 10 minutes to present and 10 minutes for questions/debate
